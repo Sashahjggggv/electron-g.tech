@@ -17,5 +17,5 @@ Disallow: /*.php
 Disallow: /*?replytocom
 Disallow: /*?turl
 
-Host: https://electron-g.tech/
-Sitemap: https://electron-g.tech/sitemap.xml
+Host: https://electron-t.ua/
+Sitemap: https://electron-t.ua/sitemap.xml
